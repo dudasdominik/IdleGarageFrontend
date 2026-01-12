@@ -1,4 +1,5 @@
-const BASE = (import.meta.env.VITE_API_BASE_URL as string) || "http://localhost:5026";
+const BASE = (import.meta.env.VITE_API_BASE_URL as string) || "";
+
 
 
 export function getToken() {
