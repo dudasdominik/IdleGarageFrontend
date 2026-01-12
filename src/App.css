@@ -1,0 +1,18 @@
+body{
+  background-color: #8b9491;
+}
+
+.logout-button:hover{
+  cursor: "pointer";
+  color: "#ff5a70";
+  transform: "scale(1.05)";
+  transition: "transform 120ms ease, color 120ms ease",
+}
+
+.logout-button{
+  border-radius: "10px";
+  font-size: 25;
+  background: "none";
+  border: "none";
+  color: "#f7314c";
+}

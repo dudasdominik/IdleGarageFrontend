@@ -1,0 +1,52 @@
+.logout-button{
+    border: none;
+    background: none;
+    font-size: 25px;
+    color: #ed475d
+}
+
+.logout-button:hover{
+    color: #f72843;
+    cursor: pointer;
+    transform: scale(1.5);
+}
+
+.claim-button{
+    border: none;
+    background: none;
+    font-size: 25px;
+    color: #6cf56e
+}
+
+.claim-button:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    color: #40f743
+}
+
+
+.unlocked-buttons{
+    border: none;
+    background: none;
+    font-size: 25px;
+    color: #3da3f1
+}
+
+.unlocked-buttons:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    color: #1895f5
+}
+
+.locked-buttons{
+    border: none;
+    background: none;
+    font-size: 20px;
+    color: #f1665f
+}
+
+.locked-buttons:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    color: #fa3d33
+}
